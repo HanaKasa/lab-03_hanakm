@@ -2,11 +2,11 @@
 
 ## References and Resources
 
-N/A
+
 
 ## Verbal Collaboration
 
 | Student Name | CCID      |
 | ------------ | --------- |
-| `student`    | `student` |
+| `Shula`    | `sjuguilo` |
 | `<Add more>` | `<CCID>`  |
